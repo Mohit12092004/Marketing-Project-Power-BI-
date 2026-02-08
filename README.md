@@ -54,3 +54,6 @@ Perfect. I’ll keep this sharp, structured, and presentation-ready. 👇
 1️⃣ Controlled Budget Reallocation – Increase investment only in high-ROI campaigns to safely scale performance.
 2️⃣ Efficiency Optimization First – Improve conversion rate and reduce CPC before aggressive scaling.
 3️⃣ Revenue per Impression Focus – Enhance value extraction instead of depending purely on traffic volume.
+
+📸 Screenshot
+https://github.com/Mohit12092004/Marketing-Project-Power-BI-/blob/main/Performance%20Gap%20(SS).png

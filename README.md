@@ -32,7 +32,9 @@ The dataset includes campaign-level marketing metrics such as impressions, click
 🚨 Key Problems Identified
 
 1️⃣ Impression Collapse – ~50% decline in impressions from 2023 to 2024.
+
 2️⃣ Profit Gap – Overall profit dropped by approximately -49.65M YoY.
+
 3️⃣ ROI Efficiency Decline – ROI efficiency reduced by ~48.51% in 2024
 
 Perfect. I’ll keep this sharp, structured, and presentation-ready. 👇
@@ -52,7 +54,9 @@ Perfect. I’ll keep this sharp, structured, and presentation-ready. 👇
 🎯 Key Recommendations
 
 1️⃣ Controlled Budget Reallocation – Increase investment only in high-ROI campaigns to safely scale performance.
+
 2️⃣ Efficiency Optimization First – Improve conversion rate and reduce CPC before aggressive scaling.
+
 3️⃣ Revenue per Impression Focus – Enhance value extraction instead of depending purely on traffic volume.
 
 📸 Screenshot
